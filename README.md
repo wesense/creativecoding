@@ -14,6 +14,7 @@ Facilitadores: Antonio Carlos Thiele e Clelio de Paula
 
 
 *** 
+
 * CONTEÚDO
   * INTRO TO CREATIVE CODING
     * https://devart.withgoogle.com/
@@ -21,16 +22,16 @@ Facilitadores: Antonio Carlos Thiele e Clelio de Paula
     * história 
     * exemplos, trabalhos
     * aplicações
-
   * INTRO TO CODING
-  * TOOLS FOR CODING
-    * Control P5
-    * OpenSimpleNI
-    * TUIO
   * BASIC DRAW
     * linhas, pontos, geometria básica, 
     * animação - escopo
   * TOOLS FOR PROCESSING
-    * Libraries
-    * Github
+    * [Processing Referênces](http://processing.org/reference/)
+    * [Libraries](http://processing.org/reference/libraries/)
+    * Control P5
+    * OpenSimpleNI
+    * TUIO    
+  * TOOLS FOR CODING
+    * [Github](www.github.org)
     * [Open Processing](www.openprocessing.org)
