@@ -23,6 +23,9 @@ Facilitadores: Antonio Carlos Thiele e Clelio de Paula
     * exemplos, trabalhos
     * aplicações
   * INTRO TO CODING
+  * INTRO TO PROCESSING
+    * [Download Processing] (http://processing.org/download/)
+    * [Sketch Online] (http://sketchpad.cc/)
   * BASIC DRAW
     * linhas, pontos, geometria básica, 
     * animação - escopo
@@ -35,3 +38,8 @@ Facilitadores: Antonio Carlos Thiele e Clelio de Paula
   * TOOLS FOR CODING
     * [Github](www.github.org)
     * [Open Processing](www.openprocessing.org)
+
+
+# REFERÊNCIAS
+
+[PROCESSING DOCUMENTÁRIO](http://vimeo.com/60735314)
