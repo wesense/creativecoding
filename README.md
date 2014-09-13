@@ -27,13 +27,16 @@ Facilitadores: Antonio Carlos Thiele e Clelio de Paula
     * [Download Processing] (http://processing.org/download/)
     * [Sketch Online] (http://sketchpad.cc/)
   * BASIC DRAW
-    * linhas, pontos, geometria básica, 
+    * SHAPES - FORMAS
+    * COLOR - CORES
+    * INTERACTION - INTERAÇÃO
     * animação - escopo
   * TOOLS FOR PROCESSING
     * [Processing Referênces](http://processing.org/reference/)
     * [Libraries](http://processing.org/reference/libraries/)
     * Control P5
-    * OpenSimpleNI
+    * [OpenSimpleNI](https://code.google.com/p/simple-openni/)
+        * [Installation NITE] (https://code.google.com/p/simple-openni/wiki/Installation)
     * TUIO    
   * TOOLS FOR CODING
     * [Github](www.github.org)
