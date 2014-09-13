@@ -29,15 +29,17 @@ Facilitadores: Antonio Carlos Thiele e Clelio de Paula
   * **BASIC DRAW**
     * [SHAPES - FORMAS](https://github.com/wesense/creative-coding-crash-course-oLabi/blob/master/CCCC/SHAPES.MD)
     * [COLOR - CORES](https://github.com/wesense/creative-coding-crash-course-oLabi/blob/master/CCCC/COLORS.MD)
-    * [INTERACTION - INTERAÇÃO](https://github.com/wesense/creative-coding-crash-course-oLabi/blob/master/CCCC/INTERACTION.MD)
-    * animação - escopo
+    * [ANIMAÇÃO](https://github.com/wesense/creative-coding-crash-course-oLabi/blob/master/CCCC/INTERACTION.MD)
+  * **USANDO O KINECT**
+    * [SETUP](https://github.com/wesense/creative-coding-crash-course-oLabi/blob/master/CCCC/INTERACTION.MD)
+    * [POINT CLOUDS](https://github.com/wesense/creative-coding-crash-course-oLabi/blob/master/CCCC/INTERACTION.MD)
   * **TOOLS FOR PROCESSING**
     * [Processing Referênces](http://processing.org/reference/)
     * [Libraries](http://processing.org/reference/libraries/)
-    * Control P5
-    * [OpenSimpleNI](https://code.google.com/p/simple-openni/)
-        * [Installation NITE] (https://code.google.com/p/simple-openni/wiki/Installation)
-    * [TUIO](http://www.tuio.org/?software)    
+        * Control P5
+        * [OpenSimpleNI](https://code.google.com/p/simple-openni/)
+            * [Installation NITE] (https://code.google.com/p/simple-openni/wiki/Installation)
+        * [TUIO](http://www.tuio.org/?software)    
   * **TOOLS FOR CODING**
     * [Github](www.github.org)
     * [Open Processing](www.openprocessing.org)
