@@ -23,7 +23,7 @@ Não se esqueça, você precisa chamar o curso () e preencher () antes de desenh
 
 ## CODE
 
-```processing
+```Processing
 void setup() {
 background(10, 80, 100);
 

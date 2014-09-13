@@ -5,11 +5,8 @@
 Desenhe um rectângulo na tela. Os parâmetros a seguir:
 
 > a - X (horizontal) localização do canto superior esquerdo da forma
-
 > b - Y (vertical) Local de uppper-esquerda canto da forma
-
 > c - largura da forma
-
 > d - altura da forma
 
 ### ellipse (a, b​​, c, d)
@@ -17,11 +14,8 @@ Desenhe um rectângulo na tela. Os parâmetros a seguir:
 Desenha uma elipse na tela. Os parâmetros a seguir:
 
 > a - X (horizontal) localização do centro da forma
-
 > b - Y (vertical) localização do centro da forma
-
 > c - largura da forma
-
 > d - altura da forma
 
 ### fill (r, g, b)
