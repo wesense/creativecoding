@@ -24,11 +24,11 @@ Para saber mais, confira o retângulo e elipse páginas processing.org.
 
  ## CODE
  
- '''processing
+ ```processing
  void setup(){
  ellipse(250,200,200,200);
  rect(250, 200, 150, 100);
  }
-'''
+```
 
 [Próximo Passo](https://github.com/wesense/creative-coding-crash-course-oLabi/blob/master/CCCC/COLORS.MD)

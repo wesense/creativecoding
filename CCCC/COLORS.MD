@@ -23,7 +23,7 @@ Não se esqueça, você precisa chamar o curso () e preencher () antes de desenh
 
 ## CODE
 
-'''processing
+```processing
 void setup() {
 background(10, 80, 100);
 
@@ -38,7 +38,7 @@ fill(255, 255, 255);
 ellipse(190, 200, 70, 70);
 
 }
-''
+``
 
 
 Para saber mais, confira o retângulo e elipse páginas processing.org.
