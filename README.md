@@ -27,9 +27,9 @@ Facilitadores: Antonio Carlos Thiele e Clelio de Paula
     * [Download Processing] (http://processing.org/download/)
     * [Sketch Online] (http://sketchpad.cc/)
   * **BASIC DRAW**
-    * [SHAPES - FORMAS](https://github.com/wesense/creative-coding-crash-course-oLabi/blob/master/CCCC/SHAPES.MD)
-    * [COLOR - CORES](https://github.com/wesense/creative-coding-crash-course-oLabi/blob/master/CCCC/COLORS.MD)
-    * [ANIMAÇÃO](https://github.com/wesense/creative-coding-crash-course-oLabi/blob/master/CCCC/INTERACTION.MD)
+    * [SHAPES - FORMAS](https://github.com/wesense/creative-coding-crash-course-oLabi/blob/master/CCCC/Basic/SHAPES.MD)
+    * [COLOR - CORES](https://github.com/wesense/creative-coding-crash-course-oLabi/blob/master/CCCC/Basic/COLORS.MD)
+    * [ANIMAÇÃO](https://github.com/wesense/creative-coding-crash-course-oLabi/blob/master/CCCC/Basic/INTERACTION.MD)
   * **TOOLS FOR PROCESSING**
     * [Processing Referênces](http://processing.org/reference/)
     * [Libraries](http://processing.org/reference/libraries/)
@@ -46,4 +46,5 @@ Facilitadores: Antonio Carlos Thiele e Clelio de Paula
 
 # REFERÊNCIAS
 
-[PROCESSING DOCUMENTÁRIO](http://vimeo.com/60735314)
+[Processing Documentário](http://vimeo.com/60735314)
+[Daniel Shiffman](http://shiffman.net/teaching/)
