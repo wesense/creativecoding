@@ -11,8 +11,11 @@ Para desenhar um retângulo: rect (a, b, c, d);
 Para desenhar uma elipse: ellipse (a, b, c, d); 
 
 > A - X (horizontal) localização do canto superior esquerdo da forma 
+
 > B - Y (vertical) Local de uppper-esquerda canto da forma 
+
 > C - largura da forma 
+
 > D - altura da forma 
 
 Para saber mais, confira o retângulo e elipse páginas processing.org.
