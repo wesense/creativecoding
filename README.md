@@ -30,9 +30,6 @@ Facilitadores: Antonio Carlos Thiele e Clelio de Paula
     * [SHAPES - FORMAS](https://github.com/wesense/creative-coding-crash-course-oLabi/blob/master/CCCC/SHAPES.MD)
     * [COLOR - CORES](https://github.com/wesense/creative-coding-crash-course-oLabi/blob/master/CCCC/COLORS.MD)
     * [ANIMAÇÃO](https://github.com/wesense/creative-coding-crash-course-oLabi/blob/master/CCCC/INTERACTION.MD)
-  * **USANDO O KINECT**
-    * [SETUP](https://github.com/wesense/creative-coding-crash-course-oLabi/blob/master/CCCC/INTERACTION.MD)
-    * [POINT CLOUDS](https://github.com/wesense/creative-coding-crash-course-oLabi/blob/master/CCCC/INTERACTION.MD)
   * **TOOLS FOR PROCESSING**
     * [Processing Referênces](http://processing.org/reference/)
     * [Libraries](http://processing.org/reference/libraries/)
@@ -40,6 +37,8 @@ Facilitadores: Antonio Carlos Thiele e Clelio de Paula
             * [Installation NITE] (https://code.google.com/p/simple-openni/wiki/Installation)
         * ~~Control P5~~
         * ~~[TUIO](http://www.tuio.org/?software)~~    
+  * **USANDO O KINECT**
+    * [STARTING UP](https://github.com/wesense/creative-coding-crash-course-oLabi/blob/master/CCCC/Kinect/readme.md)
   * **TOOLS FOR CODING**
     * [Github](www.github.org)
     * [Open Processing](www.openprocessing.org)
