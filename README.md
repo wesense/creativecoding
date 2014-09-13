@@ -15,30 +15,30 @@ Facilitadores: Antonio Carlos Thiele e Clelio de Paula
 
 *** 
 
-* CONTEÚDO
-  * INTRO TO CREATIVE CODING
+* **CONTEÚDO**
+  * **INTRO TO CREATIVE CODING**
     * https://devart.withgoogle.com/
-  * OVERVIEW
+  * **OVERVIEW**
     * história 
     * exemplos, trabalhos
     * aplicações
-  * INTRO TO CODING
-  * INTRO TO PROCESSING
+  * **INTRO TO CODING**
+  * **INTRO TO PROCESSING**
     * [Download Processing] (http://processing.org/download/)
     * [Sketch Online] (http://sketchpad.cc/)
-  * BASIC DRAW
-    * SHAPES - FORMAS
-    * COLOR - CORES
-    * INTERACTION - INTERAÇÃO
+  * **BASIC DRAW**
+    * [SHAPES - FORMAS](https://github.com/wesense/creative-coding-crash-course-oLabi/blob/master/CCCC/SHAPES.MD)
+    * [COLOR - CORES](https://github.com/wesense/creative-coding-crash-course-oLabi/blob/master/CCCC/COLORS.MD)
+    * [INTERACTION - INTERAÇÃO](https://github.com/wesense/creative-coding-crash-course-oLabi/blob/master/CCCC/INTERACTION.MD)
     * animação - escopo
-  * TOOLS FOR PROCESSING
+  * **TOOLS FOR PROCESSING**
     * [Processing Referênces](http://processing.org/reference/)
     * [Libraries](http://processing.org/reference/libraries/)
     * Control P5
     * [OpenSimpleNI](https://code.google.com/p/simple-openni/)
         * [Installation NITE] (https://code.google.com/p/simple-openni/wiki/Installation)
-    * TUIO    
-  * TOOLS FOR CODING
+    * [TUIO](http://www.tuio.org/?software)    
+  * **TOOLS FOR CODING**
     * [Github](www.github.org)
     * [Open Processing](www.openprocessing.org)
 
