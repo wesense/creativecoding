@@ -17,7 +17,7 @@ Facilitadores: Antonio Carlos Thiele e Clelio de Paula
 
 * **CONTEÚDO**
   * **INTRO TO CREATIVE CODING**
-    * https://devart.withgoogle.com/
+    * ***https://devart.withgoogle.com/***
   * **OVERVIEW**
     * história 
     * exemplos, trabalhos
@@ -36,10 +36,10 @@ Facilitadores: Antonio Carlos Thiele e Clelio de Paula
   * **TOOLS FOR PROCESSING**
     * [Processing Referênces](http://processing.org/reference/)
     * [Libraries](http://processing.org/reference/libraries/)
-        * Control P5
         * [OpenSimpleNI](https://code.google.com/p/simple-openni/)
             * [Installation NITE] (https://code.google.com/p/simple-openni/wiki/Installation)
-        * [TUIO](http://www.tuio.org/?software)    
+        * ~~Control P5~~
+        * ~~[TUIO](http://www.tuio.org/?software)~~    
   * **TOOLS FOR CODING**
     * [Github](www.github.org)
     * [Open Processing](www.openprocessing.org)
