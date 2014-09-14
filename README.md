@@ -4,15 +4,15 @@ Crash Course: Creative Coding @Olabi.
 Crash Course de Creative Coding durante a Mozilla Maker Party, realizado nos dias 13 e 14 de setembro no Olabi.
 Usando código para criar arte. Trabalhamos com a linguagem [processing](www.processing.org), e apresentamos as principais ferramentas para a criação de animações através de código.
 
-Ao final do crash course os participantes aprenderam:
+#### Ao final do crash course os participantes aprenderam:
 
-Criar aplicações, salvar os resultados através de elementos de desenho utilizando Processing.
-A utilizar o Kinect para pegar informações sobre o seu corpo.
-A usar a mão para desenhar na tela, e assim criar um live painting.
+* Criar aplicações, salvar os resultados através de elementos de desenho utilizando Processing.
+* A utilizar o Kinect para pegar informações sobre o seu corpo.
+* A usar a mão para desenhar na tela, e assim criar um live painting.
 
 Facilitadores: Antonio Carlos Thiele e Clelio de Paula
 
-### links
+#### links
 - [Evento no Facebook](https://www.facebook.com/events/270495073148197)
 - [Olabi](https://www.facebook.com/olabimakerspace)
 - [We Sense](http://www.wesense.com.br) 
