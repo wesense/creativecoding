@@ -10,7 +10,7 @@ Usando código para criar arte. Trabalhamos com a linguagem [processing](www.pro
 * A utilizar o Kinect para pegar informações sobre o seu corpo.
 * A usar a mão para desenhar na tela, e assim criar um live painting.
 
-Facilitadores: Antonio Carlos Thiele e Clelio de Paula
+Facilitadores: [Antonio Carlos Thiele](https://www.facebook.com/antoniocarlos.santosthiele) e [Clelio de Paula](https://www.facebook.com/cleliodpaula)
 
 #### links
 - [Evento no Facebook](https://www.facebook.com/events/270495073148197)
